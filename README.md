@@ -4,7 +4,7 @@
 I'm a junior front-end developer！✨
 I want to open source my front-end project with everyone！✨
 
-- blog：
+- blog：https://wangchaozi.github.io/
 - email：2758213723@qq.com
 - 蓝桉已遇释槐鸟 不爱万物唯爱你
 
